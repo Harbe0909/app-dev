@@ -24,6 +24,11 @@ In "Boyka: Undisputed," Yuri Boyka, a ruthless fighter seeking redemption, enter
 
 In "Rocky," a small-time boxer from Philadelphia, Rocky Balboa, gets a shot at the heavyweight championship. Despite overwhelming odds, Rocky trains tirelessly, supported by his love interest Adrian and his trainer Mickey, culminating in an iconic showdown against the reigning champion, Apollo Creed. The film's underdog story, heartwarming romance, and triumphant spirit have made it a beloved classic in cinema history
 
+![ems](https://github.com/Harbe0909/app-dev/assets/169812069/3f55ac5a-8b77-4b90-bd2a-89a12757cd4b)
+
+"Stranger Things" follows a group of kids in the 1980s who encounter supernatural forces and government conspiracies in their small town of Hawkins, Indiana. With the disappearance of their friend Will Byers, they embark on a journey to uncover the truth, encountering a mysterious girl with psychokinetic abilities named Eleven along the way. The series intertwines elements of horror, sci-fi, and nostalgia to create a thrilling and nostalgic homage to 80s pop culture.
+
+
 
 
 
