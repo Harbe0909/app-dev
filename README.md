@@ -4,6 +4,7 @@
 3. Terminator
 4. Rocky
 5. Maze Runner
+   
 | Movies  | Series |
 | ------------- | ------------- |
 | Terminator  | Stranger Things  |
