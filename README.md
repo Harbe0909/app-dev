@@ -22,7 +22,7 @@ In "Boyka: Undisputed," Yuri Boyka, a ruthless fighter seeking redemption, enter
 
 ![MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@ _V1_](https://github.com/Harbe0909/app-dev/assets/169812069/ca924a73-d348-4088-b774-573399f8d6d8)
 
-In "Rocky," a small-time boxer from Philadelphia, Rocky Balboa, gets a shot at the heavyweight championship. Despite overwhelming odds, Rocky trains tirelessly, supported by his love interest Adrian and his trainer Mickey, culminating in an iconic showdown against the reigning champion, Apollo Creed. The film's underdog story, heartwarming romance, and triumphant spirit have made it a beloved classic in cinema history.
+In "Rocky," a small-time boxer from Philadelphia, Rocky Balboa, gets a shot at the heavyweight championship. Despite overwhelming odds, Rocky trains tirelessly, supported by his love interest Adrian and his trainer Mickey, culminating in an iconic showdown against the reigning champion, Apollo Creed. The film's underdog story, heartwarming romance, and triumphant spirit have made it a beloved classic in cinema history
 
 
 
