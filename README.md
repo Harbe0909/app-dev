@@ -4,8 +4,10 @@
 3. Terminator
 4. Rocky
 5. Maze Runner
+6. Wayne
    
 | Movies  | Series |
 | ------------- | ------------- |
 | Terminator  | Stranger Things  |
 | Boyka  | Maze Runner  |
+| Rocky  | Wayne  |
