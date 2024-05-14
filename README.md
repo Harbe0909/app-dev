@@ -1,4 +1,4 @@
-# My Favorite Series/Movies Ranking from 1-5
+# My Favorite Series/Movies Ranking from 1-6
 1. Stranger Things
 2. Boyka
 3. Terminator
@@ -28,10 +28,13 @@ In "Rocky," a small-time boxer from Philadelphia, Rocky Balboa, gets a shot at t
 
 "Stranger Things" follows a group of kids in the 1980s who encounter supernatural forces and government conspiracies in their small town of Hawkins, Indiana. With the disappearance of their friend Will Byers, they embark on a journey to uncover the truth, encountering a mysterious girl with psychokinetic abilities named Eleven along the way. The series intertwines elements of horror, sci-fi, and nostalgia to create a thrilling and nostalgic homage to 80s pop culture.
 
-![MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@ _V1_FMjpg_UX1000_](https://github.com/Harbe0909/app-dev/assets/169812069/4b8f52fa-ff8e-4df1-ab6d-23670129da00)
+![MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@ _V1_](https://github.com/Harbe0909/app-dev/assets/169812069/1b8e7f26-6387-4825-a9de-5a9f6b71d7a1)
 
 In the "Maze Runner" series, a group of teenagers wakes up in a mysterious maze with no memory of their past. As they navigate deadly traps and terrifying creatures, they uncover dark secrets about their world and the organization that put them there. With alliances tested and sacrifices made, they struggle to escape the maze and uncover the truth about their existence.
 
+![wayne-871166419-large](https://github.com/Harbe0909/app-dev/assets/169812069/18a26daa-3fff-493b-9d5d-ecb1c0376056)
+
+In the "Maze Runner" series, a group of young adults find themselves trapped in a deadly maze with no memory of their past. They must navigate the maze's challenges, uncovering secrets about their identity and the sinister organization behind the experiment. As they fight for survival and search for a way out, they uncover shocking truths about the world they inhabit.
 
 
 
