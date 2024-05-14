@@ -4,7 +4,7 @@
 3. Terminator
 4. Rocky
 5. Maze Runner
-| Syntax | Description |
+| Movies | Series |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Boyka | Stranger Things |
+| Terminator | Maze Runner |
