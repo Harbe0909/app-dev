@@ -4,7 +4,7 @@
 3. Terminator
 4. Rocky
 5. Maze Runner
-| Movies | Series |
-| ----------- | ----------- |
-| Boyka | Stranger Things |
-| Terminator | Maze Runner |
+| Movies  | Series |
+| ------------- | ------------- |
+| Terminator  | Stranger Things  |
+| Boyka  | Maze Runner  |
